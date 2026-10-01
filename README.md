@@ -1,6 +1,6 @@
 ## Live Dashboard
 
-[Open the interactive Streamlit dashboard][(YOUR_STREAMLIT_URL)](https://saas-churn-analysis-9wrtueuznbvbjaqthexarv.streamlit.app/)
+[Open the interactive Streamlit dashboard](https://saas-churn-analysis-9wrtueuznbvbjaqthexarv.streamlit.app/)
 
 # SaaS Customer Churn & Retention Analysis
 
